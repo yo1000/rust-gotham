@@ -1,0 +1,8 @@
+[package]
+name = "rust-gotham"
+version = "0.1.0"
+authors = ["yo1000 <yoichi.kikuchi.aug@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gotham = "0.3.0"
